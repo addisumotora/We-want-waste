@@ -35,7 +35,7 @@ const Home = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-100 text-gray-900 px-4">
-      <div className="bg-white/90 backdrop-blur-md border border-gray-200 shadow-xl rounded-2xl p-8 w-full max-w-lg">
+      <div className="bg-white/90 backdrop-blur-md border border-gray-200 rounded-2xl p-8 w-full max-w-lg">
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="text-4xl font-extrabold text-blue-900 tracking-tight">
